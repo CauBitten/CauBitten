@@ -1,8 +1,4 @@
-## Hi there! I'm Cauã Bittencourt 👋
-
-- 🔭 I’m currently working on back-end
-- 🌱 I’m currently learning Java
-- 😄 Pronouns: he/him
+## Hi there! I'm Cauã Bittencourt👾
 
 <div>
   <a href="https://github.com/CauBitten">
