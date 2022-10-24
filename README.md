@@ -1,4 +1,10 @@
-## Hi there! I'm Cauã Bittencourt👾
+# Hi there! I'm Cauã Bittencourt👾
+## About me: 
+<ul>
+  <li>Computer science student at UFRPE</li>
+  <li>Improving my knowledge of JavaScript</li>
+  <li>Bloody curious about what computer science can offer to humanity</li>
+</ul>
 
 <div>
   <a href="https://github.com/CauBitten">
