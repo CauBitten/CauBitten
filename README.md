@@ -5,13 +5,6 @@
   <li>Improving my knowledge of JavaScript</li>
   <li>Very curious about what computer science can offer to humanity</li>
 </ul>
-
-## Statistics
-<div>
-  <a href="https://github.com/CauBitten">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CauBitten&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauBitten&layout=compact&langs_count=16&theme=tokyonight"/>
-    </div>
   
 ## Technologies
 <div style="display: inline_block"><br>
@@ -23,8 +16,8 @@
 
  ## Connect with me
 <div>
-  <a href="mailto:caua.fb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caubitten" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto: caua.fb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/caubitten" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/caubitten/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </div>
   
