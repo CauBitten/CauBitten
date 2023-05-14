@@ -3,7 +3,7 @@
 <ul>
   <li>I'm Franco-Brazilian</li>
   <li>Computer science student at UFRPE</li>
-  <li>Improving my knowledge of C</li>
+  <li>Improving my knowledge of Machine Learning</li>
   <li>Very curious about what computer science can offer to humanity</li>
 </ul>
   
