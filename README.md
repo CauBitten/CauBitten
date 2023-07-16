@@ -1,4 +1,4 @@
-# Hi there! I'm Cauã Bittencourt👾
+# Hi there! I'm Cauã Bittencourt 👾
 ## About me 
 <ul>
   <li>I'm Franco-Brazilian</li>
@@ -16,6 +16,9 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </div>
+
+## My projects here
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caubitten&layout=donut)](https://github.com/caubitten/github-readme-stats)   
 
  ## Connect with me
 <div>
