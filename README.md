@@ -17,9 +17,6 @@
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     </div>
 
-## My projects here
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caubitten&layout=donut)](https://github.com/caubitten/github-readme-stats)
-
  ## Connect with me
 <div>
   <a href="mailto: caua.fb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
