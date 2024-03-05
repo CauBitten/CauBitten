@@ -1,7 +1,7 @@
 # Hi there! I'm Cauã Bittencourt👾
 ## About me 
 <ul>
-  <li>I'm Franco-Brazilian</li>
+  <li>I'm French-Brazilian</li>
   <li>Computer science student at UFRPE</li>
   <li>Improving my knowledge of Machine Learning working at AiBox Lab</li>
   <li>Very curious about what computer science can offer to humanity</li>
