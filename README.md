@@ -54,3 +54,8 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/CauBitten/CauBitten/output/snake.svg" alt="Snake animation" />
+
+###
+
