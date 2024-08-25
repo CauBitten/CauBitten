@@ -25,15 +25,15 @@
 
 <div align="left">
   <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" height="40" alt="C++" /> 
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />        
-  <img width="12" />
+  <img width="15" />
 </div>
 
 ###
