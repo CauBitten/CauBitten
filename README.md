@@ -28,11 +28,11 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
   <img width="15" />
-  <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" height="40" alt="Django" /> 
+  <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" height="40" alt="Django" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
   <img width="15" />
@@ -59,3 +59,9 @@
 </div>
 
 ###
+
+<!-- Snake Animation -->
+<div align="center">
+
+  ![snake gif](https://github.com/brunno95/brunno95/blob/output/github-snake-dark.svg)
+</div>
