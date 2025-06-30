@@ -63,5 +63,5 @@
 <!-- Snake Animation -->
 <div align="center">
 
-  ![snake gif](https://github.com/brunno95/brunno95/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/CauBitten/CauBitten/blob/output/github-snake-dark.svg)
 </div>
