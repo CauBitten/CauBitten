@@ -1,8 +1,8 @@
-<h1 align="left">Hi there! 👋🏼</h1>
+<h1 align="left">Hi there! 👨‍💻</h1>
 
 ###
 
-<p align="left">I'm Cauã Bittencourt 🙋🏼‍♂️</p>
+<p align="left">I'm Cauã Bittencourt </p>
 
 ###
 
@@ -21,18 +21,12 @@
 
 ###
 
-<h2 align="left">Main Technologies 👾</h2>
+<h2 align="left">Main Technologies </h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" />    
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
-  <img width="5" />       
+<div align="left">   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" />   
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50" />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" />
   <img width="5" />
@@ -40,12 +34,45 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" />
   <img width="5" />
+</div>
+
+###
+
+<h2 align="left">Frameworks </h2>
+
+### 
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" />
   <img width="5" />
   <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" alt="Django" width="50" />
   <img width="5" />
+</div>
+
+###
+
+<h2 align="left">Databases </h2>
+
+### 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />
   <img width="5" />
+</div>
+
+###
+
+<h2 align="left">Tools </h2>
+
+### 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" />    
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
+  <img width="5" />    
 </div>
 
 ###
