@@ -47,6 +47,8 @@
   <img width="5" />
   <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" alt="Django" width="50" />
   <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" />
+  <img width="5" />
 </div>
 
 ###
