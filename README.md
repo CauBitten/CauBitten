@@ -43,11 +43,11 @@
 ### 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" />
-  <img width="15" />
-  <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" alt="Django" width="50" />
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" />
+  <img width="15" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" />
   <img width="15" />
 </div>
 
