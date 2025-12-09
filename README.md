@@ -1,23 +1,17 @@
-<h1 align="left">Hi there! 👨‍💻</h1>
+<h1 align="left">🧙 Cauã Bittencourt</h1>
+<p align="left"><em>Computer Science • Software Development • Machine Learning</em></p>
 
-###
+---
 
-<p align="left">I'm Cauã Bittencourt </p>
+## About Me
 
-###
+French-Brazilian Computer Science student passionate about building useful software and exploring how AI can empower people and organizations.
 
-<h2 align="left">About Me 🎓</h2>
-
-###
-
-<ul>
-  <li>I'm French-Brazilian </li>
-  <li>Computer Science student at UFRPE</li>
-  <li>Java & Oracle Junior Developer at MV</li>
-  <li>Python Scientific Researcher at NEES</li>
-  <li>Improving my knowledge of Machine Learning working at AiBox Lab</li>
-  <li>Curious about what Computer Science can deliver to humanity</li>
-</ul>
+- 🎓 Studying CS at **UFRPE**  
+- 🧑‍💻 Java & Oracle Junior Developer at **MV**  
+- 🤖 Focused on Deep Learning at **AiBox Lab**  
+- 🔬 Was Python Scientific Researcher at **NEES** 
+- 🌍 Curious about the impact of technology on humanity  
 
 ###
 
