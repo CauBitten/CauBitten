@@ -1,5 +1,5 @@
 <h1 align="left">🧙 Cauã Bittencourt</h1>
-<p align="left"><em>Computer Science • Software Development • Machine Learning</em></p>
+<p align="left"><em>Computer Science • Software Development • Machine Learning • Deep Learning</em></p>
 
 ---
 
