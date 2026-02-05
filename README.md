@@ -1,43 +1,76 @@
-<h1 align="left">Hi there! 👋🏼</h1>
+<h1 align="left">🧙 Cauã Bittencourt</h1>
+<p align="left"><em>Computer Science • Software Development • Machine Learning • Deep Learning</em></p>
+
+---
+
+## About Me
+
+French-Brazilian Computer Science student passionate about building useful software and exploring how AI can empower people and organizations.
+
+- 🎓 Studying CS at **UFRPE**  
+- 🧑‍💻 Java & Oracle Junior Developer at **MV**  
+- 🤖 Focused on Deep Learning at **AiBox Lab**  
+- 🔬 Was Python Scientific Researcher at **NEES** 
+- 🌍 Curious about the impact of technology on humanity  
 
 ###
 
-<p align="left">I'm Cauã Bittencourt 🙋🏼‍♂️</p>
+<h2 align="left">Technologies </h2>
 
 ###
 
-<h2 align="left">About Me 🎓</h2>
+<div align="left">   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="50" />   
+  <img width="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" />
+  <img width="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" />
+  <img width="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" />
+  <img width="20" /> 
+</div>
 
 ###
 
-<ul>
-  <li>I'm French-Brazilian </li>
-  <li>Computer Science student at UFRPE</li>
-  <li>Improving my knowledge of Machine Learning working at AiBox Lab</li>
-  <li>Curious about what Computer Science can deliver to humanity</li>
-</ul>
+<h2 align="left">Frameworks </h2>
 
-###
-
-<h2 align="left">Main Technologies 👾</h2>
-
-###
+### 
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="15" />
-  <img src="https://icongr.am/devicon/django-line.svg?size=148&color=ffffff" height="40" alt="Django" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="50" />
+  <img width="20" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="50" />
+  <img width="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" />
+  <img width="20" /> 
+</div>
+
+###
+
+<h2 align="left">Databases </h2>
+
+### 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="50" />
+  <img width="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" />
+  <img width="20" /> 
+</div>
+
+###
+
+<h2 align="left">Tools </h2>
+
+### 
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" />    
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="GitLab" width="50" />
+  <img width="20" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="50" />   
+  <img width="20" />          
 </div>
 
 ###
@@ -47,15 +80,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/caubitten/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:caua.fb@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/caubitten/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+
+  [![E-mail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caua.fb@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CauBitten/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caubitten/)
 </div>
 
 <!-- Snake Animation -->
